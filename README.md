@@ -4,19 +4,19 @@ A Python-based tool for performing sentiment analysis on both spoken and typed i
 
 ## **Features :**
 
-Speech Recognition:Convert spoken words to text using Google Speech Recognition.<br/>
-Text Analysis: <br/> Analyze typed sentences for sentiment.<br/>
-Sentiment Analysis: Use VADER (Valence Aware Dictionary and sEntiment Reasoner) to calculate sentiment scores (Positive, Negative, Neutral, and Compound).<br/>
-Visualization: Display results in a bar graph.<br/>
-CSV Storage: Automatically saves unique sentiment analysis results to a CSV file to avoid duplicates.<br/>
+**Speech Recognition:** Convert spoken words to text using Google Speech Recognition.<br/>
+**Text Analysis:** Analyze typed sentences for sentiment.<br/>
+**Sentiment Analysis:** Use VADER (Valence Aware Dictionary and sEntiment Reasoner) to calculate sentiment scores (Positive, Negative, Neutral, and Compound).<br/>
+**Visualization:** Display results in a bar graph.<br/>
+**CSV Storage:** Automatically saves unique sentiment analysis results to a CSV file to avoid duplicates.<br/>
 
 ## **Requirements:**
 
-tkinter: For the graphical user interface.<br/>
-speech_recognition: To convert spoken words into text.<br/>
-vaderSentiment: For sentiment analysis.<br/>
-pandas: To handle CSV file operations.<br/>
-matplotlib: To visualize sentiment analysis results.<br/>
+**tkinter:** For the graphical user interface.<br/>
+**speech_recognition:** To convert spoken words into text.<br/>
+**vaderSentiment:** For sentiment analysis.<br/>
+**pandas:** To handle CSV file operations.<br/>
+**matplotlib:** To visualize sentiment analysis results.<br/>
 
 ## **Future Enhancements :**
 
